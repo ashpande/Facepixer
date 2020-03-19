@@ -1,2 +1,8 @@
-# Facepixer
-Built for NITK Hackverse Hackathon. Uses GANs (Generative Adversarial Networks) to generate photorealistic images from sketches 
+# facepixer
+Converts sketches into photorealistic images
+
+Used CUHK Dataset to train Pix2Pix networks for the generation of images.
+
+# Devfolio page
+
+https://devfolio.co/submissions/facepixer
